@@ -34,12 +34,17 @@ Screenshots:
 
 ![Screenshot_20231009_221049](https://github.com/L4ki/KDE-Story-Light/assets/45247573/bccbec25-8249-4c13-a7a3-f2c1396a101b)
 
-Changelog: 16.10.2023.
+Changelog: 09.10.2023.
 -----------------------
 
 Completely redesigned Theme
 
-Changelog: 09.10.2023.
+Changelog: 16.10.2023.
 -----------------------
 
 Update widget: line.svg
+
+Changelog: 23.10.2023.
+-----------------------
+
+Added icon: image.svg
