@@ -48,3 +48,8 @@ Changelog: 23.10.2023.
 -----------------------
 
 Added icon: image.svg
+
+Changelog: 30.10.2023.
+-----------------------
+
+Added icon: cadence.svg
