@@ -53,3 +53,9 @@ Changelog: 30.10.2023.
 -----------------------
 
 Added icon: cadence.svg
+
+
+Changelog: 07.11.2023.
+-----------------------
+
+Added widget: frame.svg
