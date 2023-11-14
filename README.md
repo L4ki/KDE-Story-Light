@@ -64,4 +64,4 @@ Added widget: frame.svg
 Changelog: 14.11.2023.
 -----------------------
 
-Update: gtkrc
+Added icon: antimicro.svg
