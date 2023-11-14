@@ -59,3 +59,9 @@ Changelog: 07.11.2023.
 -----------------------
 
 Added widget: frame.svg
+
+
+Changelog: 14.11.2023.
+-----------------------
+
+Update: gtkrc
