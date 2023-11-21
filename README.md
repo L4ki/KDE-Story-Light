@@ -65,3 +65,8 @@ Changelog: 14.11.2023.
 -----------------------
 
 Added icon: antimicro.svg
+
+Changelog: 21.11.2023.
+-----------------------
+
+Added icon: search.svg
