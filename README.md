@@ -70,3 +70,8 @@ Changelog: 21.11.2023.
 -----------------------
 
 Added icon: search.svg
+
+Changelog: 28.11.2023.
+-----------------------
+
+Update icon: yakuake.svg
