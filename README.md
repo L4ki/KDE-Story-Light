@@ -75,3 +75,8 @@ Changelog: 28.11.2023.
 -----------------------
 
 Update icon: yakuake.svg
+
+Changelog: 05.12.2023.
+-----------------------
+
+Added icon: transform.svg
