@@ -80,3 +80,8 @@ Changelog: 05.12.2023.
 -----------------------
 
 Added icon: transform.svg
+
+Changelog: 14.12.2023.
+-----------------------
+
+Added icon: telegram.svg
