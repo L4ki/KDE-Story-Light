@@ -85,3 +85,9 @@ Changelog: 14.12.2023.
 -----------------------
 
 Added icon: telegram.svg
+
+
+Changelog: 21.12.2023.
+-----------------------
+
+Added icon: accessories.svg
