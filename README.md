@@ -91,3 +91,9 @@ Changelog: 21.12.2023.
 -----------------------
 
 Added icon: accessories.svg
+
+
+Changelog: 19.01.2024.
+-----------------------
+
+Added icon: solaar.svg
