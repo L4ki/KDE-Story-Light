@@ -34,66 +34,10 @@ Screenshots:
 
 ![Screenshot_20231009_221049](https://github.com/L4ki/KDE-Story-Light/assets/45247573/bccbec25-8249-4c13-a7a3-f2c1396a101b)
 
-Changelog: 09.10.2023.
------------------------
 
-Completely redesigned Theme
-
-Changelog: 16.10.2023.
------------------------
-
-Update widget: line.svg
-
-Changelog: 23.10.2023.
------------------------
-
-Added icon: image.svg
-
-Changelog: 30.10.2023.
------------------------
-
-Added icon: cadence.svg
-
-
-Changelog: 07.11.2023.
------------------------
-
-Added widget: frame.svg
-
-
-Changelog: 14.11.2023.
------------------------
-
-Added icon: antimicro.svg
-
-Changelog: 21.11.2023.
------------------------
-
-Added icon: search.svg
-
-Changelog: 28.11.2023.
------------------------
-
-Update icon: yakuake.svg
-
-Changelog: 05.12.2023.
------------------------
-
-Added icon: transform.svg
-
-Changelog: 14.12.2023.
------------------------
-
-Added icon: telegram.svg
-
-
-Changelog: 21.12.2023.
------------------------
-
-Added icon: accessories.svg
 
 
 Changelog: 19.01.2024.
 -----------------------
 
-Added icon: solaar.svg
+Added icon: cantata.svg
