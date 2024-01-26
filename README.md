@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 19.01.2024.
+Changelog: 26.01.2024.
 -----------------------
 
 Added icon: cantata.svg
