@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 27.06.2024.
+Changelog: 04.07.2024.
 -----------------------
 
-Update icon: system.svg
+Update widget: listitem.svg
