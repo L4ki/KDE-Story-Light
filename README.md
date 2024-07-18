@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 11.07.2024.
+Changelog: 18.07.2024.
 -----------------------
 
-Update widget: bar_meter_horizontal.svg
+Update widget: bar_meter_vertical.svg
