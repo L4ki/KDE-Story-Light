@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="130"
    height="130"
    sodipodi:docname="listitem.svg"
@@ -18,13 +10,21 @@
    inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   version="1.0">
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Highlight { stop-color:#000000;    color:#000000; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="988"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -36,8 +36,8 @@
      pagecolor="#dadada"
      id="base"
      inkscape:zoom="3.6545271"
-     inkscape:cx="80.161018"
-     inkscape:cy="48.622257"
+     inkscape:cx="80.174532"
+     inkscape:cy="48.706712"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -62,10 +62,15 @@
     <inkscape:grid
        type="xygrid"
        id="grid5592"
-       visible="true"
+       visible="false"
        enabled="true"
        empspacing="5"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -75,7 +80,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -5744,7 +5748,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate"
      id="normal-center"
      width="6"
      height="6"
@@ -5753,32 +5757,34 @@
      inkscape:label="#normal-center" />
   <g
      id="normal-top"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="52.999981"
        x="13.999985"
        height="7"
        width="6"
        id="rect4846-6-6-4-5-3-4-1-2-1"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <rect
        y="53.999985"
        x="13.999985"
        height="6"
        width="6"
        id="rect4846-6-6-4-5-3-4-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-left"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="61.999981"
        x="5"
        height="6"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-7-9-0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <rect
        transform="rotate(-90)"
        y="5.9999847"
@@ -5786,18 +5792,19 @@
        height="6"
        width="6"
        id="rect4846-4-6-1-3-5-6-1"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-bottom"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="70"
        x="13.999985"
        height="7"
        width="6"
        id="rect4846-6-6-4-5-3-4-1-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <rect
        transform="scale(-1)"
        y="-75.999977"
@@ -5805,18 +5812,19 @@
        height="6"
        width="6"
        id="rect4846-5-6-2-3-2-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-right"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="61.999981"
        x="21.999985"
        height="6"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-4-0-1"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <rect
        transform="rotate(90)"
        y="-28.000023"
@@ -5824,79 +5832,83 @@
        height="6"
        width="6"
        id="rect4846-4-2-9-6-0-5-7-9"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-topleft"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="52.999981"
        x="5"
        height="7"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-7-2-3"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:label="#rect3863-5-5"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="rect3863-5-5-4-7-6-1-0-3-2-8"
        d="m 11.999999,59.9996 v -6 c -0.01145,0 -0.02246,0 -0.03395,0 -3.689773,0.009 -5.986366,3.11195 -5.965859,5.92745 2.61e-4,0.024 -5.5e-4,0.0485 0,0.07255 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.15000001;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-topright"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="52.999981"
        x="21.999985"
        height="7"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-4-6-00"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:label="#rect3863-5-5"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="rect3863-5-5-47-4-5-0-1-7-9"
        d="m 22.0002,59.9998 h 6 c 0,-0.0115 0,-0.0225 0,-0.034 -0.009,-3.689759 -3.111937,-5.986366 -5.92746,-5.965866 -0.02415,2.51e-4 -0.04837,0 -0.07252,0 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-bottomleft"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="70"
        x="5"
        height="7"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-7-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:label="#rect3863-5-5"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="rect3863-5-5-4-3-2-4-8-2-1"
        d="m 11.9998,69.999731 h -6 c 0,0.01148 0,0.0225 0,0.03398 0.009,3.68977 3.11194,5.986379 5.92746,5.965888 0.02415,-2.47e-4 0.0484,0 0.07254,0 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      id="normal-bottomright"
-     transform="translate(88.000038,16.999962)">
+     transform="translate(88.000038,16.999962)"
+     style="fill:#000000;fill-opacity:1">
     <rect
        y="70"
        x="21.999985"
        height="7"
        width="7"
        id="rect4846-6-6-4-5-3-4-1-4-66"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:label="#rect3863-5-5"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="rect3863-5-5-0-9-5-3-3-1"
        d="m 22,70 v 6 c 0.01148,0 0.02242,0 0.03397,0 3.689769,-0.009 5.986358,-3.111953 5.965853,-5.927453 -2.63e-4,-0.024 4.95e-4,-0.04852 0,-0.07252 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#505050;fill-opacity:0.00392157;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <rect
      style="display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate"
@@ -6101,7 +6113,7 @@
      height="2.99998"
      x="15"
      y="53.000019"
-     transform="matrix(1,0,0,1.6666709,88.000038,-18.333609)" />
+     transform="matrix(1,0,0,1.6666709,88.000038,-26.033589)" />
   <rect
      style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3802-5)"
      id="normal-hint-right-margin"
@@ -6109,7 +6121,7 @@
      height="3"
      x="29"
      y="16.5"
-     transform="matrix(2.3333291,0,0,1,42.333479,64.499962)" />
+     transform="matrix(2.3333291,0,0,1,52.733456,64.499962)" />
   <rect
      y="16.5"
      x="4"
@@ -6118,7 +6130,7 @@
      id="normal-hint-left-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3792-2)"
      inkscape:label="#normal-left-margin"
-     transform="matrix(2.3333433,0,0,1,83.666635,64.499962)" />
+     transform="matrix(2.3333433,0,0,1,75.966627,64.499962)" />
   <rect
      y="74"
      x="15"
@@ -6126,7 +6138,7 @@
      width="3"
      id="normal-hint-bottom-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3812-2)"
-     transform="matrix(1,0,0,1.6666666,88.000038,-34.333363)" />
+     transform="matrix(1,0,0,1.6666666,88.000038,-26.133328)" />
   <rect
      style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3782-6)"
      id="section-hint-top-margin"
