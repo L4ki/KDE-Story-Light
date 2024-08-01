@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 25.07.2024.
+Changelog: 01.08.2024.
 -----------------------
 
-Update widget: listitem.svg
+Update widget: tabbar.svg
