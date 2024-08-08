@@ -6,7 +6,7 @@
    viewBox="0 0 645 530.00001"
    id="svg1172"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,15 +21,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1870"
-     inkscape:window-height="954"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      id="namedview700"
      showgrid="false"
      inkscape:zoom="0.6747614"
-     inkscape:cx="539.44994"
-     inkscape:cy="215.63178"
-     inkscape:window-x="50"
-     inkscape:window-y="40"
+     inkscape:cx="357.16329"
+     inkscape:cy="434.96857"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1172"
      inkscape:document-rotation="0"
@@ -41,7 +41,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="true"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4001"
@@ -56,7 +56,45 @@
      id="defs5">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {&#10;        color:#333333;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#333333;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#333333;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-NeutralText {&#10;        color:#f67400;&#10;      }&#10;      .ColorScheme-PositiveText {&#10;        color:#27ae60;&#10;      }</style>
+       type="text/css">.ColorScheme-Text {
+        color:#333333;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#333333;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#333333;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NeutralText {
+        color:#f67400;
+      }
+      .ColorScheme-PositiveText {
+        color:#27ae60;
+      }</style>
   </defs>
   <rect
      id="focus-topleft"
