@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 01.08.2024.
+Changelog: 08.08.2024.
 -----------------------
 
-Update widget: tabbar.svg
+Update widget: tasks.svg
