@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 08.08.2024.
+Changelog: 15.08.2024.
 -----------------------
 
-Update widget: tasks.svg
+Update widget: viewitem.svg
