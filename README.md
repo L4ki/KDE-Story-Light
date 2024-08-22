@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 15.08.2024.
+Changelog: 22.08.2024.
 -----------------------
 
-Update widget: viewitem.svg
+Update widget: panel-background.svg
