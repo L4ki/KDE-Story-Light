@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 22.08.2024.
+Changelog: 29.08.2024.
 -----------------------
 
-Update widget: panel-background.svg
+Update widget: containment-controls.svg
