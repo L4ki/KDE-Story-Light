@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 29.08.2024.
+Changelog: 05.09.2024.
 -----------------------
 
-Update widget: containment-controls.svg
+Update widget: toolbar.svg
