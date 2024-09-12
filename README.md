@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 05.09.2024.
+Changelog: 12.09.2024.
 -----------------------
 
-Update widget: toolbar.svg
+Update widget: tooltip.svg
