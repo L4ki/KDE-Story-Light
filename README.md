@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 12.09.2024.
+Changelog: 19.09.2024.
 -----------------------
 
-Update widget: tooltip.svg
+Update widget: plasmoidheading.svg
