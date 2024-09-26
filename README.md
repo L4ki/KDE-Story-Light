@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 19.09.2024.
+Changelog: 26.09.2024.
 -----------------------
 
-Update widget: plasmoidheading.svg
+Update widget: slider.svg
