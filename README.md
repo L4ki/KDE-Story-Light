@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 26.09.2024.
+Changelog: 04.10.2024.
 -----------------------
 
-Update widget: slider.svg
+Update widget: button.svg
