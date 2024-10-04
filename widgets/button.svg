@@ -5,7 +5,7 @@
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -13,7 +13,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { stop-color:#476382;    color:#476382; }&#10;.ColorScheme-ViewBackground { color:#3b5a87; }&#10;.ColorScheme-Text { &#10;    stop-color:#1c2231;&#10;    color:#1c2231;&#10;}&#10;</style>
+     type="text/css">.ColorScheme-Highlight { stop-color:#476382;    color:#476382; }
+.ColorScheme-ViewBackground { color:#3b5a87; }
+.ColorScheme-Text { 
+    stop-color:#1c2231;
+    color:#1c2231;
+}
+</style>
   <sodipodi:namedview
      id="namedview272"
      pagecolor="#ffffff"
@@ -23,19 +29,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="11.256496"
-     inkscape:cx="59.076997"
-     inkscape:cy="4.1309479"
+     inkscape:zoom="2.814124"
+     inkscape:cx="108.38186"
+     inkscape:cy="87.949216"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg270"
      showguides="true"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid8101"
