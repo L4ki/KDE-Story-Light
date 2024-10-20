@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 13.10.2024.
+Changelog: 20.10.2024.
 -----------------------
 
-Update widget: action-overlays.svg
+Update widget: background.svg
