@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 27.10.2024.
+Changelog: 03.11.2024.
 -----------------------
 
-Update widget: line.svg
+Update widget: actionbutton.svg
