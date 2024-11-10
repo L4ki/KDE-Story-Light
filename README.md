@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 03.11.2024.
+Changelog: 10.11.2024.
 -----------------------
 
-Update widget: actionbutton.svg
+Update widget: busywidget.svg
