@@ -5,7 +5,7 @@
    viewBox="0 0 43.999989 28.999998"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="arrows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -81,7 +81,7 @@
      inkscape:showpageshadow="true"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -94,10 +94,21 @@
      guidetolerance="10"
      inkscape:pagecheckerboard="0"
      scale-x="1"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
-       type="xygrid"
-       id="grid2731" />
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
