@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 10.11.2024.
+Changelog: 17.11.2024.
 -----------------------
 
-Update widget: busywidget.svg
+Update widget: arrows.svg
