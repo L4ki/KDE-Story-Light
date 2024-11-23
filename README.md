@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 17.11.2024.
+Changelog: 24.11.2024.
 -----------------------
 
-Update widget: arrows.svg
+Update widget: frame.svg
