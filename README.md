@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 24.11.2024.
+Changelog: 02.12.2024.
 -----------------------
 
-Update widget: frame.svg
+Update widget: lineedit.svg
