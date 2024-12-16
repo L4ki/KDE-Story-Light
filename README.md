@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 09.12.2024.
+Changelog: 16.12.2024.
 -----------------------
 
-Update widget: scrollwidget.svg
+Update widget: configuration-icons.svg
