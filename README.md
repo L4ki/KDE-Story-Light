@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 16.12.2024.
+Changelog: 23.12.2024.
 -----------------------
 
-Update widget: configuration-icons.svg
+Update widget: picker.svg
