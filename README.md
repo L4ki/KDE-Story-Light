@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 23.12.2024.
+Changelog: 27.01.2025.
 -----------------------
 
-Update widget: picker.svg
+Update widget: metadata.desktop
