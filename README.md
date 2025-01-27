@@ -40,4 +40,4 @@ Screenshots:
 Changelog: 27.01.2025.
 -----------------------
 
-Update widget: metadata.desktop
+Update: metadata.desktop
