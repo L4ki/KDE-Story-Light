@@ -1,20 +1,28 @@
 [Desktop Entry]
-Name=KDE-Story-Light
-Comment=KDE-Story-Light Plasma Theme
+Name=Wings-Light-Plasma
+Comment=Wings Light Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
-X-KDE-PluginInfo-Email=l4k1987@gmail.com
-X-KDE-PluginInfo-Name=KDE-Story-Light
-X-KDE-PluginInfo-Version=7.1
-X-KDE-PluginInfo-Website=https://github.com/L4ki/KDE-Story-Light
+X-KDE-PluginInfo-Email=lak1987@gmail.com
+X-KDE-PluginInfo-Name=Wings-Light-Plasma
+X-KDE-PluginInfo-Version=12.1
+X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
+
 
 [AdaptiveTransparency]
 enabled=true
 
 [ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
+enabled=true
+blur=2.0
+contrast=1.6
+intensity=1.6
+saturation=1.6
+
+[BlurBehindEffect]
+enabled=true
+
+
+
