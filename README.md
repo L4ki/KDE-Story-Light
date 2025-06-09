@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 02.06.2025.
+Changelog: 09.06.2025.
 -----------------------
 
-Update: metadata.desktop
+Update widget: menubaritem.svg
