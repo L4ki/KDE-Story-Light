@@ -37,7 +37,7 @@ Screenshots:
 
 
 
-Changelog: 01.09.2025.
+Changelog: 08.09.2025.
 -----------------------
 
 Update: metadata.desktop
